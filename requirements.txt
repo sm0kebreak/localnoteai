@@ -1,0 +1,8 @@
+sounddevice
+soundfile
+faster-whisper
+transformers
+sentence-transformers
+torch
+faiss-cpu
+fpdf
